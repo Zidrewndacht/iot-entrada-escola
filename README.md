@@ -2,14 +2,12 @@ Aplicação para o dispositivo IoT (ESP32 WROOM) do monitoramento de acesso de a
 
 É necessário configurar as credenciais da rede WiFi em nomes.h e do broker MQTT em mqtt.cpp.
 
-## License
+## Licença
+[![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
+
+Este trabalho está licenciado sob a [Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc]. 
 
 Para licença dos componentes utilizados, verifique **/data/licenses.html** (igual a **/public/licenses.html** do repositório do servidor).
-
-Shield: [![CC BY-NC 4.0][cc-by-nc-shield]][cc-by-nc]
-
-This work is licensed under a
-[Creative Commons Attribution-NonCommercial 4.0 International License][cc-by-nc].
 
 [![CC BY-NC 4.0][cc-by-nc-image]][cc-by-nc]
 
